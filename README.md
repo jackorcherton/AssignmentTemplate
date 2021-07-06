@@ -13,4 +13,4 @@ sudo apt install texlive texlive-xetex texlive-fonts-recommended texlive-fonts-e
 - Code-includes - to save cluttering up the markdown with code, you are able to import it (see the example) - this uses the [lua code-include filter](https://github.com/pandoc/lua-filters/tree/master/include-code-files)
 
 ## Build
-To create the assignment, run ./build.sh
+To create the assignment, run `make`
