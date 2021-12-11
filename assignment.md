@@ -17,6 +17,7 @@ toc-own-page: true
 
 csl: .template/apa.csl
 reference-section-title: References
+link-citations: true
 
 header-includes: |
     \usepackage{sectsty}
